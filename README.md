@@ -1,7 +1,7 @@
 # MuseumVR
 Night at the Museum is a VR project that shows users some basic applications of Virtual Reality in the health sector.
 
-## GoogleVVR SDK Version
+## GoogleVR SDK Version
 The version of GoogleVR SDK used for this is project is version 1.6.0.
 
 The link to the write-up :
